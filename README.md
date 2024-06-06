@@ -5,7 +5,7 @@
 -  Gelişim açısından sınırsız alan sunmasından kaynaklı bu alan ilgimi çekti.
 -  Hedefim alanında ehil sahibi bir developer olmak.
 
--  <h3 align="center">A passionate frontend developer from India</h3> 
+ 
 <p align="left">
 </p>
 
